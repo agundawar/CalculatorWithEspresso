@@ -15,7 +15,8 @@ import static android.support.test.espresso.matcher.ViewMatchers.withId;
 import static android.support.test.espresso.matcher.ViewMatchers.withText;
 
 /**
- * Created by Akhil on 05/01/18.
+ * Espresso tests to ensure that editText box is updated appropriately
+ * whenever buttons are clicked
  */
 
 @SmallTest

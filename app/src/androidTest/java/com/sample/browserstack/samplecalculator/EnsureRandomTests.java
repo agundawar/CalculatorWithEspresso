@@ -15,7 +15,9 @@ import static android.support.test.espresso.matcher.ViewMatchers.withId;
 import static android.support.test.espresso.matcher.ViewMatchers.withText;
 
 /**
- * Created by Akhil on 05/01/18.
+ * Espresso tests to ensure that random operation result are
+ * handled correctly and correct output is generated and the
+ * editText box is updated correctly
  */
 
 
